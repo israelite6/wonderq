@@ -89,7 +89,7 @@ GET http://localhost:3000/consumes?take=2
 
 Acknowledge message in the queue
 ```batch
-POST http://localhost:3000/messages
+POST http://localhost:3000/acknowledges
     payload {
         id: string
     }
