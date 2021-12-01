@@ -1,0 +1,1 @@
+export const EXPIRE_DURATION_IN_MILLI_SECONDS = 10000; //10 seconds
